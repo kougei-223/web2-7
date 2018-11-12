@@ -1,6 +1,6 @@
 //答えを用意
 var number = Math.floor(Math.ramdom()*3)
-var answer = parseInt(window.prompt('数あてゲー。0~2の数を入力してください！'));
+var answer = parseInt(window.prompt('数あてゲーム。0~2の数を入力してください！'));
 
 var message;
 if(answer === number){
