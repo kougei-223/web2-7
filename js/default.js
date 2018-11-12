@@ -14,5 +14,5 @@ if(answer === number){
 }
 
 //結果を表示
-document.getElementById('choice').textComent = message;
+document.getElementById('choice').textContent = message;
 
